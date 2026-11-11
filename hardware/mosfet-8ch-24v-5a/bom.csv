@@ -1,0 +1,19 @@
+Adet,Referanslar,Deger,Kilif,Onerilen parca (MPN),Aciklama
+1,C1,100u/50V,CP_Elec_8x10,EEE-FK1H101P,Elektrolitik 100uF 50V SMD 8x10
+1,D1,SMBJ33A,D_SMB,SMBJ33A,TVS 33V 600W tek yonlu SMB
+1,D2,BLUE,LED_0603_1608Metric,KP-1608QBC-D / 19-217/BHC,Besleme LED mavi 0603
+8,D11 D21 D31 D41 D51 D61 D71 D81,GREEN,LED_0603_1608Metric,KP-1608SGC / 19-217/GHC,Kanal durum LED yesil 0603
+8,D12 D22 D32 D42 D52 D62 D72 D82,BZT52C15,D_SOD-123,BZT52C15-7-F,Kapi koruma zeneri 15V SOD-123
+8,D13 D23 D33 D43 D53 D63 D73 D83,SS36,D_SMA,SS36,Serbest gecis diyodu 3A 60V SMA
+8,F1 F2 F3 F4 F5 F6 F7 F8,7A,Fuse_Littelfuse-NANO2-451_453,0451007.MRL,"SMD sigorta 7A hizli, Littelfuse Nano2 451"
+1,J1,COM + IN8-1,"TerminalBlock_Phoenix_PT-1,5-9-3.5-H_1x09_P3.50mm_Horizontal","PT 1,5/9-3,5-H (1984688)",Giris klemensi 9 kutup 3.5mm
+1,J2,OUT1-8,"TerminalBlock_Phoenix_MKDS-1,5-8-5.08_1x08_P5.08mm_Horizontal","MKDS 1,5/8-5,08 (1715786)",Cikis klemensi 8 kutup 5.08mm
+1,J3,0V 0V 24V 24V,TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal,"MKDS 3/4-5,08 (1711741)",Besleme klemensi 4 kutup 5.08mm 24A
+1,JP1,NPN|COM|PNP,PinHeader_1x03_P2.54mm_Vertical,Pin header 1x3 2.54mm + jumper,"Giris tipi secimi: 1-2 NPN (COM=+24V), 2-3 PNP (COM=0V)"
+8,Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8,SUD50P06-15,TO-252-2,SUD50P06-15-GE3,"P-MOSFET -60V 15mOhm DPAK (alt: SQD50P06-15L, NCE60P50K)"
+1,R1,10k,R_0603_1608Metric,RC0603FR-0710KL,Besleme LED direnci 10k 0603
+8,R11 R21 R31 R41 R51 R61 R71 R81,4k7,R_1206_3216Metric,RC1206FR-074K7L,Giris seri direnci 4k7 1% 0.25W 1206
+8,R12 R22 R32 R42 R52 R62 R72 R82,1k,R_0603_1608Metric,RC0603FR-071KL,Opto LED paralel direnci 1k 1% 0603
+8,R13 R23 R33 R43 R53 R63 R73 R83,10k,R_0603_1608Metric,RC0603FR-0710KL,Kapi-kaynak direnci 10k 1% 0603
+8,R14 R24 R34 R44 R54 R64 R74 R84,10k,R_0603_1608Metric,RC0603FR-0710KL,Kapi seri direnci 10k 1% 0603
+8,U1 U2 U3 U4 U5 U6 U7 U8,TLP290(GB),SOP-4_4.4x2.6mm_P1.27mm,"TLP290(GB-TP,SE","AC girisli optokuplor SO-4, CTR>=100% (alt: LTV-354T, EL354N)"
